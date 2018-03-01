@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import gdino from './assets/g-dino';
+import gdino from './g-dino.png';
+import './Header.css';
 
 class Header extends Component {
   render() {
